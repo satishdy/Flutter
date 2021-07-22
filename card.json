@@ -68,7 +68,7 @@
                   "subtitle": {
                     "type": "text",
                     "args": {
-                      "text": "TWICE",
+                      "text": "",
                       "style": {
                         "color": "#fff"
                       }

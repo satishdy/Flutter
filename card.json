@@ -87,7 +87,7 @@
                       "text": "Black Friday Deals",
                       "style": {
                         "color": "#555555",
-                        "background": "#fff"
+                        "backgroundColor": "#fff"
                       }
                     }
                   }

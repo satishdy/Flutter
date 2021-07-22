@@ -26,15 +26,13 @@
         "child": {
           "type": "container",
           "args": {
-            "width": "359",
-            "height": "146"
+            "width": 359,
+            "height": 146
           },
           "child": {
             "type": "card",
             "args": {
               "color": "#0A387A",
-              "width": "359",
-              "height": "146",
               "elevation": 5,
               "shape": {
                 "type": "rounded",

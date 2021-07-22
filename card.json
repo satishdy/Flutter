@@ -86,7 +86,7 @@
                   "child": {
                     "type": "text",
                     "args": {
-                      "text": "Edit",
+                      "text": "Black Friday Deals",
                       "style": {
                         "color": "#fff"
                       }

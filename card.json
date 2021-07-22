@@ -76,12 +76,12 @@
               }, {
                 "type": "button_bar",
                 "children": [{
-                  "type": "flat_button",
+                  "type": "expanded",
                   "args": {
                     "onPressed": "##noop()##"
                   },
                   "child": {
-                    "type": "expanded",
+                    "type": "text",
                     "args": {
                       "text": "   Black Friday Deals   ",
                       "style": {

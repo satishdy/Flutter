@@ -32,7 +32,7 @@
             "type": "card",
             "args": {
               "color": "#E91E63",
-              "elevation": 10,
+              "elevation": 5,
               "shape": {
                 "type": "rounded",
                 "borderRadius": 9

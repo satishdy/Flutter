@@ -89,24 +89,12 @@
                     "args": {
                       "text": "Black Friday Deals",
                       "style": {
-                        "color": "#fff"
+                        "color": "#555555",
+                        "background": "#fff"
                       }
                     }
                   }
-                }, {
-                  "type": "flat_button",
-                  "args": {
-                    "onPressed": "##noop()##"
-                  },
-                  "child": {
-                    "type": "text",
-                    "args": {
-                      "text": "Delete",
-                      "style": {
-                        "color": "#fff"
-                      }
-                    }
-                  }
+                },   
                 }]
               }]
             }

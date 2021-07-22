@@ -26,8 +26,8 @@
         "child": {
           "type": "container",
           "args": {
-            "width": 359,
-            "height": 146
+            "width": 400,
+            "height": 163
           },
           "child": {
             "type": "card",

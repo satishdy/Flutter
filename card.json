@@ -76,7 +76,7 @@
               }, {
                 "type": "button_bar",
                 "children": [{
-                  "type": "expanded",
+                  "type": "flat_button",
                   "args": {
                     "onPressed": "##noop()##"
                   },

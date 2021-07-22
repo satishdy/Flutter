@@ -61,7 +61,7 @@
                     "type": "text",
                     "args": {
                       "text": "Shop Black Friday doorbusters and thousands of deals",
-                      "textAlign": "TextAlign.center",
+                      "textAlign": "center",
                       "style": {
                         "color": "#fff"
                       }

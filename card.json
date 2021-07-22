@@ -102,7 +102,7 @@
                   "child": {
                     "type": "text",
                     "args": {
-                      "text": "Delete",
+                      "text": "",
                       "style": {
                         "color": "#fff"
                       }

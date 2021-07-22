@@ -33,6 +33,8 @@
             "type": "card",
             "args": {
               "color": "#0A387A",
+              "width": "359",
+              "height": "146",
               "elevation": 5,
               "shape": {
                 "type": "rounded",

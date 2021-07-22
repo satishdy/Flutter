@@ -48,10 +48,10 @@
                 "type": "list_tile",
                 "args": {
                   "leading": {
-                    "type": "memory_image",
+                    "type": "network_image",
                     "args": {
                      "image": "https://firebasestorage.googleapis.com/v0/b/api-project-848950106722.appspot.com/o/IMG%20BG.png?alt=media&token=474ba69f-9edf-4eb4-84a5-87e8ee33855c",
-                    }
+                      }
                     }
                   },
                   "title": {

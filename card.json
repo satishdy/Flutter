@@ -35,7 +35,7 @@
               "elevation": 10,
               "shape": {
                 "type": "rounded",
-                "borderRadius": 8
+                "borderRadius": 9
               }
             },
             "child": {

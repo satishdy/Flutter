@@ -81,7 +81,7 @@
                     "onPressed": "##noop()##"
                   },
                   "child": {
-                    "type": "text",
+                    "type": "expanded",
                     "args": {
                       "text": "   Black Friday Deals   ",
                       "style": {

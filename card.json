@@ -85,7 +85,6 @@
                     "type": "text",
                     "args": {
                       "text": "   Black Friday Deals   ",
-                      "padding": 10,
                       "style": {
                         "color": "#555555",
                         "padding": 10,

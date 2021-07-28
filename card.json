@@ -42,7 +42,7 @@
             "child": {
               "type": "column",
               "args": {
-                "mainAxisSize": "min"
+                "mainAxisSize": "min" 
               },
               "children": [{
                 "type": "list_tile",

@@ -45,7 +45,7 @@
                 "mainAxisSize": "min" 
               },
               "children": [{
-                "type": "column",
+                "type": "list_title",
                 "args": {
                   "leading": {
                     "type": "network_image",

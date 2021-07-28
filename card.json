@@ -45,11 +45,12 @@
                 "mainAxisSize": "min" 
               },
               "children": [{
-                "type": "list_tile",
+                "type": "column",
                 "args": {
                   "leading": {
                     "type": "network_image",
                     "args": {
+                      "fit": "fitWidth",
                      "src": "https://firebasestorage.googleapis.com/v0/b/api-project-848950106722.appspot.com/o/headphones.png?alt=media&token=3e6e53a3-70d4-4ef6-80fd-a290a003b474"                      
                      }
                   },

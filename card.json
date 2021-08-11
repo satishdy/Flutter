@@ -40,9 +40,7 @@
                     {
                       "type": "flat_button",
                       "args": {
-                        "style": {
-                            "color": "#fff"
-                          },
+                        "color": "#fff",
                         "onPressed": "##noop()##"
                       },
                       "child": {

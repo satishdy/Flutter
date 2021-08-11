@@ -21,7 +21,7 @@
           "child": {
             "type": "card",
             "args": {
-              "color": "#E91E63",
+              "color": "#0a387a",
               "elevation": 2,
               "shape": {
                 "type": "rounded",

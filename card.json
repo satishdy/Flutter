@@ -40,6 +40,7 @@
                     {
                       "type": "flat_button",
                       "args": {
+                        "color": "#fff",
                         "onPressed": "##noop()##"
                       },
                       "child": {
@@ -47,7 +48,7 @@
                         "args": {
                           "text": "Edit",
                           "style": {
-                            "color": "#fff"
+                            "color": "#000"
                           }
                         }
                       }

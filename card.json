@@ -22,7 +22,7 @@
             "type": "card",
             "args": {
               "color": "#E91E63",
-              "elevation": 5,
+              "elevation": 2,
               "shape": {
                 "type": "rounded",
                 "borderRadius": 8

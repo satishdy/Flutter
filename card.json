@@ -38,10 +38,6 @@
                   "type": "button_bar",
                   "children": [
                     {
-          "type": "expanded",
-          "child": {
-            "type": "center",
-            "child": {
               "type": "elevated_button",
               "args": {
                 "onLongPress": "##simplePrintMessage()##",
@@ -56,8 +52,6 @@
                 }
               }
             }
-          }
-        },
                     {
                       "type": "flat_button",
                       "args": {

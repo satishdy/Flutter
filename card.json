@@ -16,7 +16,7 @@
           "type": "container",
           "args": {
             "width": "448",
-              "height": "182"
+            "height": "182"
           },
           "child": {
             "type": "card",
@@ -37,26 +37,21 @@
                 {
                   "type": "button_bar",
                   "children": [
-                    {"type": "expanded",
-          "child": {
-            "type": "center",
-            "child": {
-              "type": "text_button",
-              "args": {
-                "onLongPress": "##simplePrintMessage()##",
-                "style": {
-                  "foregroundColor": "##materialCallback()##"
-                }
-              },
-              "child": {
-                "type": "text",
-                "args": {
-                  "text": "TextButton"
-                }
-              }
-            }
-            }
-          },
+                    {
+                      "type": "text_button",
+                      "args": {
+                        "onLongPress": "##simplePrintMessage()##",
+                        "style": {
+                          "foregroundColor": "##materialCallback()##"
+                        }
+                      },
+                      "child": {
+                        "type": "text",
+                        "args": {
+                          "text": "TextButton"
+                        }
+                      }
+                    },
                     {
                       "type": "flat_button",
                       "args": {

@@ -38,20 +38,26 @@
                   "type": "button_bar",
                   "children": [
                     {
-                      "type": "flat_button",
-                      "args": {
-                        "onPressed": "##noop()##"
-                      },
-                      "child": {
-                        "type": "text",
-                        "args": {
-                          "text": "Delete",
-                          "style": {
-                            "color": "#fff"
-                          }
-                        }
-                      }
-                    },
+          "type": "expanded",
+          "child": {
+            "type": "center",
+            "child": {
+              "type": "elevated_button",
+              "args": {
+                "onLongPress": "##simplePrintMessage()##",
+                "style": {
+                  "foregroundColor": "##materialCallback()##"
+                }
+              },
+              "child": {
+                "type": "text",
+                "args": {
+                  "text": "ElevatedButton"
+                }
+              }
+            }
+          }
+        },
                     {
                       "type": "flat_button",
                       "args": {

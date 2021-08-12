@@ -37,7 +37,7 @@
                 {
                   "type": "button_bar",
                   "children": [
-                    "type": "expanded",
+                    {"type": "expanded",
           "child": {
             "type": "center",
             "child": {

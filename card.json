@@ -38,20 +38,20 @@
                   "type": "button_bar",
                   "children": [
                     {
-              "type": "elevated_button",
-              "args": {
-                "onLongPress": "##simplePrintMessage()##",
-                "style": {
-                  "foregroundColor": "##materialCallback()##"
-                }
-              },
-              "child": {
-                "type": "text",
-                "args": {
-                  "text": "ElevatedButton"
-                }
-              }
-            }
+                      "type": "text_button",
+                      "args": {
+                        "onLongPress": "##noop()##"
+                      },
+                      "child": {
+                        "type": "text",
+                        "args": {
+                          "text": "TextButton",
+                          "style": {
+                            "color": "#fff"
+                          }
+                        }
+                      }
+                    },
                     {
                       "type": "flat_button",
                       "args": {

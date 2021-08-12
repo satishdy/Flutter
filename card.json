@@ -37,22 +37,25 @@
                 {
                   "type": "button_bar",
                   "children": [
-                    {
-                      "type": "flat_button",
-                      "args": {
-                        "color": "#fff",
-                        "onPressed": "##noop()##"
-                      },
-                      "child": {
-                        "type": "text",
-                        "args": {
-                          "text": "Edit",
-                          "style": {
-                            "color": "#000"
-                          }
-                        }
-                      }
-                    },
+                    "type": "expanded",
+          "child": {
+            "type": "center",
+            "child": {
+              "type": "text_button",
+              "args": {
+                "onLongPress": "##simplePrintMessage()##",
+                "style": {
+                  "foregroundColor": "##materialCallback()##"
+                }
+              },
+              "child": {
+                "type": "text",
+                "args": {
+                  "text": "TextButton"
+                }
+              }
+            }
+          },
                     {
                       "type": "flat_button",
                       "args": {
